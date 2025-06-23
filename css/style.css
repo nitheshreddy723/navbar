@@ -9,9 +9,9 @@ body {
 }
 
 nav {
-    background-color: #02080c;
+    background-color: #16b2e1;
     color: white;
-    height: 60px;
+    height: 100px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -85,7 +85,7 @@ nav {
     }
 }
 section{
-    background: url(../image/image.jpg)  no-repeat;
+    background: url(../image/coding-background-0vw3zenwz75j4jkb.jpg)  no-repeat;
     background-size: cover;
     /* height: calc(100vh - 50px); */
     height: 100vh;

@@ -11,7 +11,7 @@ body {
 nav {
     background-color: #16b2e1;
     color: white;
-    height: 100px;
+    height: 60px;
     display: flex;
     align-items: center;
     justify-content: space-between;
